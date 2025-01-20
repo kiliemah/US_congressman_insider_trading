@@ -1,2 +1,2 @@
 # US_congressman_insider_trading
-Analysis of relation between US congressman transaction and S&amp;P stock, to detect potential insider trzding
+Analysis of relationship between US congressmen transactions and S&amp;P stock, to detect potential insider trading
